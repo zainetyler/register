@@ -1,9 +1,10 @@
 "domain": "is-local.org",
-    "subdomain": "*.zainetyler",
+    "subdomain": "zainetyler",
     "owner": {
         "email": "zainetyer413@gmail.com"
     },
     "record": {
         "CNAME": "zainetyler.github.io"
     }
+
 }
